@@ -7,7 +7,7 @@ import Search from './pages/Search';
 import VideoPlayer from './pages/VideoPlayer';
 import Playlist from './pages/Playlist';
 import Channel from './pages/Channel';
-import Test from './pages/test';
+import Test from './pages/Test';
 import Login from './components/Login';
 import CryptoJS from 'crypto-js';
 
